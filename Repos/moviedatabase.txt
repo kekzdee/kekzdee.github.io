@@ -1,6 +1,6 @@
 video_play_url = "https://www.watchcartoononline.io/big-hero-6"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Big Hero 6', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Big Hero 6', iconImage='https://i.imgur.com/Alt9hdY.jpg')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
@@ -84,19 +84,19 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/shrek"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Shrek', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Shrek', iconImage='https://i.imgur.com/V4K992S.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/shrek-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Shrek 2', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Shrek 2', iconImage='https://i.imgur.com/Q5lBJcJ.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/shrek-the-third"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Shrek the Third', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Shrek the Third', iconImage='https://i.imgur.com/EuEa1ZI.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
