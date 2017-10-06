@@ -1,0 +1,217 @@
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-10-the-rickchurian-mortydate"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 10', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-9-the-abcs-of-beth"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 9', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-8-mortys-mind-blowers"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 8', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-7-the-ricklantis-mixup"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 7', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-6-rest-and-ricklaxation"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 6', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-5-the-whirly-dirly-conspiracy"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 5', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-4-vindicators-3-the-return-of-worldender"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 4', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-3-pickle-rick"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 3', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-2-rickmancing-the-stone"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 2', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-3-episode-1-the-rickshank-rickdemption"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 3 Episode 1', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-10-the-wedding-squanchers"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 10', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-9-look-whos-purging-now"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 9', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-8-interdimensional-cable-2-tempting-fate"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 8', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-7-big-trouble-in-little-sanchez"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 7', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-6-the-ricks-must-be-crazy"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 6', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-5-get-schwifty"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 5', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-4-total-rickall"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 4', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-3-auto-erotic-assimilation"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 3', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-2-mortynight-run"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 2', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-season-2-episode-1-a-rickle-in-time"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 2 Episode 1', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-11-ricksy-business"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 11', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-10-close-rick-counters-of-the-rick-kind"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 10', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-9-something-ricked-this-way-comes"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 9', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-8-rixty-minutes"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 8', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-7-raising-gazorpazorp"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 7', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-6-rick-potion-9"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 6', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-5-meeseeks-and-destroy"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 5', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-4-m-night-shaym-aliens"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 4', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-3-anatomy-park"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 3', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-2-lawnmower-dog"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 2', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
+video_play_url = "https://www.watchcartoononline.io/rick-and-morty-episode-1-pilot"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Rick and Morty Season 1 Episode 1 (Pilot)', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+
