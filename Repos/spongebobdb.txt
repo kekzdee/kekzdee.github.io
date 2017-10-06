@@ -2,1497 +2,1495 @@ video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 11 Episode 3 ', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-11-episode-2-spot-returns-the-check-up"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 11 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-10-patricks-coupon-out-of-the-picture"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-9-the-getaway-lost-and-found"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-7-plankton-retires-trident-trouble"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-6-life-insurance-burst-your-bubble"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-5-spongebobs-place-plankton-gets-the-boot"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-4-snooze-you-lose-krusty-katering"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-3-mimic-madness-house-worming"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-2-unreal-estate-code-yellow"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-10-episode-1-whirlybrains"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 10 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-26-the-tooth-the-whole-tooth-and-nothing-but-the-tooth-mutiny-on-the-krusty"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 26', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-25-pineapple-invasion-salsa-imbecilicus"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 25', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-24-food-con-castaways-snail-mail"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 24', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-23-sandys-nutmare-bulletin-board"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 23', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-22-factory-fresh"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 22', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-21-sold-lame-and-fortune"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 21', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-20-sharks-vs-pods-copybob-dittopants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-19-mall-girl-pearl-two-thumbs-down"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-18-the-fishbowl-married-to-money"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-17-spongebob-longpants-larrys-gym"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-16-patrick-the-game-the-sewers-of-bikini-bottom"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-15-sanctuary-whats-eating-patrick"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-14-company-picnic-pull-up-a-barrel"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-13-squid-plus-one-the-executive-treatment"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-12-lost-in-bikini-bottom-tutor-sauce"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-11-spongebob-youre-fired"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-10-kenny-the-cat-yeti-krabs"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-9-dont-look-now-seance-shmeance"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-8-safe-deposit-krabs-planktons-pet"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-7-it-came-from-goo-lagoon"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-6-jailbreak-evil-spatula"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-5-eek-an-urchin-squid-defense"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-4-little-yellow-book-bumper-to-bumper"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-3-license-to-milkshake-squid-baby"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-2-patrick-man-garys-new-toy"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-9-episode-1-extreme-spots-squirrel-record"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 9 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-26-hello-bikini-bottom"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 26', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-25-the-good-krabby-name-move-it-or-lose-it"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 25', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-24-super-evil-aquatic-villain-team-up-is-go-chum-fricassee"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 24', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-23-its-a-spongebob-christmas"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 23', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-22-treats-for-here-or-to-go"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 22', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-21-squiditis-demolition-doofus"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 21', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-20-face-freeze-glove-world-r-i-p-"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-19-karen-2-0-inspongeiac"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-18-free-samples-home-sweet-rubble"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-17-are-you-happy-now-planet-of-the-jellyfish"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-16-restraining-spongebob-fiasco"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-15-the-krabby-patty-that-ate-bikini-bottom-bubble-buddy-returns"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-14-bubble-troubles-the-way-of-the-sponge"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-13-house-sittin-for-sandy-smoothe-jazz-at-bikini-bottom"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-12-barnacle-face-pet-sitter-pat"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-11-mermaid-man-begins-planktons-good-eye"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-10-ghoul-fools"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-9-mooncation-mr-krabs-takes-a-vacation"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-8-patricks-staycation-walking-the-plankton"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-7-a-squarepants-family-vacation"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-6-sweet-and-sour-squid-the-googly-artiste"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-5-squidwards-school-for-grown-ups-oral-report"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-4-frozen-face-off"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-3-a-friendly-game-sentimental-sponge"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-2-drive-thru-the-hot-shot"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-8-episode-1-accidents-will-happen-the-other-patty"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 8 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-26-big-sister-sam-perfect-chemistry"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 26', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-25-new-fish-in-town-love-that-squid"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 25', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-24-krusty-dogs-the-wreck-of-the-mauna-loa"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 24', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-23-you-dont-know-sponge-tunnel-of-glove"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 23', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-22-the-masterpiece-whelk-attack"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 22', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-21-hide-and-then-what-happens-shellback-shenanigans"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 21', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-20-the-abrasive-side-earworm"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-19-buried-in-time-enchanted-tiki-dreams"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-18-that-sinking-feeling-karate-star"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-17-the-great-patty-caper"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-16-trenchbillies-sponge-cano"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-15-the-curse-of-the-hex-the-main-drain"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-14-the-monster-who-came-to-bikini-bottom-welcome-to-the-bikini-bottom-triangle"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-13-grammas-secret-recipe-the-cent-of-money"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-12-the-plays-the-thing-rodeo-daze"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-11-one-coarse-meal-gary-in-love"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-10-a-day-without-tears-summer-job"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-9-back-to-the-past-the-bad-guy-club-for-villains"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-8-spongebobs-last-stand"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-7-the-curse-of-bikini-bottom-squidward-in-clarinetland"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-6-yours-mine-and-mine-kracked-krabs"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-5-keep-bikini-bottom-beautiful-a-pal-for-gary"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-4-greasy-buffoons-model-sponge"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-3-someones-in-the-kitchen-with-sandy-the-inside-job"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-2-growth-spout-stuck-in-the-wringer"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-7-episode-1-tentacle-vision-i-"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 7 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-26-the-clash-of-triton"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 26', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-25-pineapple-fever-chum-caverns"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 25', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-23-24-truth-or-square"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 23-24', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-22-chum-bucket-supreme-single-cell-anniversary"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 22', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-21-sand-castles-in-the-sand-shell-shocked"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 21', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-20-no-hat-for-pat-toy-store-of-doom"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-19-gullible-pants-overbooked"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-18-pet-or-pests-komputer-overload"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-17-shuffleboarding-professor-squidward-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-16-squids-visit-to-squarepants-or-not-to-squarepants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-15-grandpappy-the-pirate-cephalopod-lodge-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-14-dear-vikings-ditchin-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-13-krusty-krushers-the-card-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-12-porous-pockets-choir-boys-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-11-spongebob-squarepants-vs-the-big-one"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-10-the-slumber-party-grooming-gary-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-9-boating-buddies-the-krabby-kronicle-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-8-patty-caper-planktons-regular"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-7-giant-squidward-no-nose-knows-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-6-a-life-in-a-day-sun-bleached-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-5-the-splinter-slide-whistle-stooges-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-4-not-normal-gone-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-3-spongicus-suction-cup-symphony-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-2-penny-foolish-nautical-novice-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-6-episode-1-house-fancy-krabby-road-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 6 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-20-banned-in-bikini-bottom-stanley-s-squarepants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-19-the-two-faces-of-squidward-spongehenge"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-18-what-ever-happened-to-spongebob-whobob-whatpants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-17-20000-patties-under-the-sea-the-battle-of-bikini-bottom-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-16-pest-of-the-west-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-15-the-inmates-of-summer-to-save-a-squirrel-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-14-blackened-sponge-mermaid-man-vs-spongebob-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-13-picture-day-pat-no-pay-blackjack-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-12-atlantis-squarepantis-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-11-goo-goo-gas-le-big-switch"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-10-a-flea-in-her-dome-the-donut-of-shame-the-krusty-plate-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-9-the-krusty-sponge-sing-a-song-of-patrick-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-8-money-talks-spongebob-vs-the-patty-gadget-slimy-dancing"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-7-to-love-a-patty-breath-of-fresh-squidward-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-6-roller-cowards-bucket-sweet-bucket-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-5-new-digs-krabs-a-la-mode-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-4-spy-buddies-boat-smarts-good-ol-whatshisname-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-3-rise-and-shine-waiting-fungus-among-us-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-2-the-original-fry-cook-night-light"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-5-episode-1-friend-or-foe-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 5 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-20-best-day-ever-the-gift-of-gum"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-19-the-pink-purloiner-squid-wood"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-18-born-to-be-wild-best-frenemies"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-17-driven-to-tears-rule-of-dumb-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-16-the-thing-hocus-pocus"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-15-squidtastic-voyage-thats-no-lady-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-14-bummer-vacation-wigstruck-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-13-new-leaf-once-bitten-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-12-all-that-glitters-wishing-you-well-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-11-whale-of-a-birthday-karate-island-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-10-ghost-host-chimps-ahoy"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-9-krusty-towers-mrs-puff-youre-fired"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-8-patrick-smartpants-squidbob-tentaclepants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-7-enemy-in-law-mermaid-man-and-barnacle-boy-vi-the-motion-picture"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-6-dunces-and-dragons-lost-in-time"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-5-selling-out-funny-pants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-4-skill-crane-good-neighbors"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-3-have-you-seen-this-snail-wheres-gary"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-2-the-lost-mattress-krabs-vs-plankton"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-4-episode-1-fear-of-a-krabby-patty-shell-of-a-man"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 4 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-20-spongebob-meets-the-strangler-pranks-a-lot"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-19-the-sponge-who-could-fly-the-lost-episode"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-18-missing-identity-planktons-army"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-17-krabby-land-the-camping-episode"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-16-born-again-krabs-i-had-an-accident"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-15-the-great-snail-race-mid-life-crustacean"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-14-ugh"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-13-new-student-starfish-clams"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-12-chocolate-with-nuts-mermaid-man-and-barnacle-boy-v"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-11-party-pooper-pants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-10-wet-painters-krusty-krab-training-video-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-9-krab-borg-rock-a-bye-bivalve"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-8-no-weenies-allowed-squilliam-returns"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-7-as-seen-on-tv-can-you-spare-a-dime"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-6-snowball-effect-one-krabs-trash"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-5-mermaid-man-and-barnacle-boy-iv-doing-time"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-4-nasty-patty-idiot-box"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-3-the-bully-just-one-bite"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-2-club-spongebob-my-pretty-seahorse"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-3-episode-1-the-algaes-always-greener-spongeguard-on-duty"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 3 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-20-sandy-spongebob-and-the-worm-squid-on-strike"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-19-jellyfish-hunter-the-fry-cook-games"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-18-sailor-mouth-artist-unknown"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-17-procrastination-im-with-stupid"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-16-graveyard-shift-krusty-love"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-15-the-secret-box-band-geeks"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-14-welcome-to-the-chum-bucket-frankendoodle"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-13-shanghaied-gary-takes-a-bath"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-12-pressure-the-smoking-peanut"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-11-mermaid-man-and-barnacle-boy-iii-squirrel-jokes"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-10-no-free-rides-im-your-biggest-fanatic"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-9-survival-of-the-idiots-dumped"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-8-christmas-who"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-7-prehibernation-week-life-of-crime"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-6-grandmas-kisses-squidville"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-5-wormy-patty-hype"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-4-dying-for-pie-imitation-krabs"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-3-big-pink-loser-bubble-buddy"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-2-something-smells-bossy-boots"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-2-episode-1-your-shoes-untied-squids-day-off"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 2 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-20-hooky-mermaid-man-and-barnacle-boy-ii"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 20', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-19-fools-in-april-neptunes-spatula"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 19', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-18-texas-walking-small"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 18', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-17-arrgh-rock-bottom"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 17', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-16-valentines-day-the-paper"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-15-sleepy-time-suds"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 15', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-14-sb-129-karate-choppers"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 14', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-13-scaredy-pants-i-was-a-teenage-gary"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-12-the-chaperone-employee-of-the-month"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 12', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-11-musclebob-buffpants-squidward-the-unfriendly-ghost"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 11', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-10-culture-shock-f-u-n"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-9-nature-pants-opposite-day"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 9', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-8-sandys-rocket-squeaky-boots"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 8', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-7-hall-monitor-jellyfish-jam"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 7', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-6-mermaid-man-and-barnacle-boy-pickles"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 6', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-5-pizza-delivery-home-sweet-pineapple"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 5', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-4-naughty-nautical-neighbors-boating-school"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 4', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-3-jellyfishing-plankton"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 3', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-2-bubblestand-ripped-pants"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 2', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-1-episode-1-help-wanted-reef-blower-tea-at-the-treedome"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 1 Episode 1', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
-1xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
-
-
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
