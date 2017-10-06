@@ -75,3 +75,9 @@ url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('Season 1 Episode 13', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-2-episode-1-terrance-phillip-in-%E2%80%9Cnot-without-my-anus%E2%80%9D-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 2 Episode 1', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
