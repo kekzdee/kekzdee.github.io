@@ -93,3 +93,9 @@ url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('Shrek the Third', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/ed-edd-n-eddys-big-picture-show"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Ed, Edd n Eddy’s Big Picture Show', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
