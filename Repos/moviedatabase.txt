@@ -54,7 +54,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/the-lion-king"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('The Lion King', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('The Lion King', iconImage='https://i.imgur.com/lWmKDD8.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
