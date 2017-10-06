@@ -42,7 +42,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/south-park-bigger-longer-uncut"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('South Park Bigger, Longer & Uncut', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('South Park Bigger, Longer & Uncut', iconImage='https://i.imgur.com/Wtzlu5O.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
