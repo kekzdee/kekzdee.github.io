@@ -171,3 +171,15 @@ url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('Season 2 Episode 16', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-2-episode-17-gnomes-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 2 Episode 17', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-2-episode-18-prehistoric-ice-man-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 2 Episode 18', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
