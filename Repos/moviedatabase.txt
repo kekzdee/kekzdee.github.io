@@ -6,7 +6,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/ratatouille"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Ratatouille', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Ratatouille', iconImage='https://i.imgur.com/mQiRduz.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
