@@ -78,7 +78,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/toy-story-3-movie"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Toy Story 3', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Toy Story 3', iconImage='https://i.imgur.com/Eai4jVf.jpg')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
