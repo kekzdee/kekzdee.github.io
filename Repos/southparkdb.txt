@@ -243,3 +243,21 @@ url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('Season 3 Episode 10', iconImage='DefaultVideo.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-3-episode-11-starvin%E2%80%99-marvin-in-space-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 3 Episode 11', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-3-episode-12-korn%E2%80%99s-groovy-pirate-ghost-mystery-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 3 Episode 12', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-3-episode-13-hooked-on-monkey-fonics-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 3 Episode 13', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
