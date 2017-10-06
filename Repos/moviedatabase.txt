@@ -30,7 +30,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/ice-age"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Ice Age', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Ice Age', iconImage='https://i.imgur.com/46OX4i1.jpg')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
