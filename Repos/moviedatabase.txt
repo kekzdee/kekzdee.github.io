@@ -18,7 +18,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/kung-fu-panda-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Kung Fu Panda 2', iconImage='DefaultVideo.png')
+li = xbmcgui.ListItem('Kung Fu Panda 2', iconImage='https://i.imgur.com/RBlvGtY.jpg')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
