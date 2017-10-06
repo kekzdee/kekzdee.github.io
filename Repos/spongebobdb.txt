@@ -1,4 +1,3 @@
-URLs found:
 video_play_url = "https://www.watchcartoononline.io/spongebob-squarepants-season-11-episode-3-spin-the-bottle-sportz"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('SpongeBob SquarePants Season 11 Episode 3 ', iconImage='DefaultVideo.png')
