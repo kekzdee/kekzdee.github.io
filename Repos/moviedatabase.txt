@@ -40,6 +40,12 @@ li = xbmcgui.ListItem('Phineas and Ferb the Movie: Across the 2nd Dimension', ic
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
+video_play_url = "https://www.watchcartoononline.io/phineas-and-ferb-o-w-c-a-files"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Phineas and Ferb: O.W.C.A. Files', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
 video_play_url = "https://www.watchcartoononline.io/south-park-bigger-longer-uncut"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
 li = xbmcgui.ListItem('South Park Bigger, Longer & Uncut', iconImage='https://i.imgur.com/Wtzlu5O.png')
