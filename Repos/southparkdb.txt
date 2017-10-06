@@ -1,0 +1,77 @@
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-1-cartman-gets-an-anal-probe-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 1', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-2-weight-gain-4000-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 2', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-3-volcano-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 3', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-4-big-gay-al%E2%80%99s-big-gay-boat-ride-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 4', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-5-an-elephant-makes-love-to-a-pig-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 5', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-6-death-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 6', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-7-pink-eye-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 7', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-8-damien-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 8', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-9-starvin-marvin-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 9', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-10-mr-hankey-the-christmas-poo-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 10', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-11-tom%E2%80%99s-rhinoplasty-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 11', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-12-mecha-streisand-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 12', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
+
+video_play_url = "https://www.watchcartoononline.io/south-park-season-1-episode-13-cartman%E2%80%99s-mom-is-a-dirty-slut-1-2"
+url = build_url({'mode' :'play', 'playlink' : video_play_url})
+li = xbmcgui.ListItem('Season 1 Episode 13', iconImage='DefaultVideo.png')
+li.setProperty('IsPlayable' , 'true')
+xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
