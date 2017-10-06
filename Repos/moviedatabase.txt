@@ -126,7 +126,7 @@ xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
 video_play_url = "https://www.watchcartoononline.io/despicable-me-2"
 url = build_url({'mode' :'play', 'playlink' : video_play_url})
-li = xbmcgui.ListItem('Despicable Me', iconImage='https://i.imgur.com/qVvvWJZ.png')
+li = xbmcgui.ListItem('Despicable Me 2', iconImage='https://i.imgur.com/qVvvWJZ.png')
 li.setProperty('IsPlayable' , 'true')
 xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li)
 
